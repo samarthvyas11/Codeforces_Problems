@@ -1,11 +1,13 @@
-Question:- Problem 1)   Mishka and Contest
-Link :- https://codeforces.com/contest/999/problem/A
+# Question:- 
+Problem 1)   Mishka and Contest
+# Link :-
+https://codeforces.com/contest/999/problem/A
 
 
 
-Explanation :-
+# Explanation :-
 
-Time Complexity :- O(N)
+# Time Complexity :- O(N)
 
 As a step-1 we have to travel from left side  and check the
 diffculty level of questions, here any one of the two conditions 
