@@ -1,5 +1,6 @@
 Question: Problem C Alphabetic Removals
 Link: https://codeforces.com/contest/999/problem/C
+
 Explanation:
 
 
