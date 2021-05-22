@@ -13,7 +13,7 @@ As a step-1 we have to travel from left side  and check the
 diffculty level of questions, here any one of the two conditions 
 should occur
 
-1) We will get difficulty level greater than  skill at that index
+1)  We will get difficulty level greater than  skill at that index
 break the itterations(count questions upto this index-1)
 
 
