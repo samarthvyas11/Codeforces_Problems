@@ -7,7 +7,7 @@ Time complextity:O(N+26) => O(N)
 
 Basically the idea to find the solution is that ,
 start removing alphabet according to their lexagraphical 
-order (number of times given in the question) (as per their avaibility)
+order (number of times given in the question) (as per their availability)
 
 To acheive above idea:-
 
