@@ -15,6 +15,8 @@ should occur
 
 1) We will get difficulty level greater than  skill at that index
 break the itterations(count questions upto this index-1)
+
+
 2)None of the given questions have difficulty level greater then skill level
 
 If condition one happend than travel the list from right 
