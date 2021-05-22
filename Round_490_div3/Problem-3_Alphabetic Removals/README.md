@@ -1,11 +1,14 @@
-Question: Problem C Alphabetic Removals
-Link: https://codeforces.com/contest/999/problem/C
+# Question:
+Problem C Alphabetic Removals
+# Link:
+https://codeforces.com/contest/999/problem/C
 
-Explanation:
 
 
-Time complextity:O(N+26) => O(N)
 
+# Time complextity:O(N+26) => O(N)
+
+# Explanation:
 Basically the idea to find the solution is that ,
 start removing alphabet according to their lexagraphical 
 order (number of times given in the question) (as per their availability)
