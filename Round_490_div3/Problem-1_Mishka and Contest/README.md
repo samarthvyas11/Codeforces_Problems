@@ -5,9 +5,9 @@ https://codeforces.com/contest/999/problem/A
 
 
 
-# Explanation :-
-
 # Time Complexity :- O(N)
+
+# Explanation :-
 
 As a step-1 we have to travel from left side  and check the
 diffculty level of questions, here any one of the two conditions 
