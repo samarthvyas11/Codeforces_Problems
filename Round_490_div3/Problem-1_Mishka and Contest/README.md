@@ -1,5 +1,8 @@
 Question:- Problem 1)   Mishka and Contest
 Link :- https://codeforces.com/contest/999/problem/A
+
+
+
 Explanation :-
 
 Time Complexity :- O(N)
