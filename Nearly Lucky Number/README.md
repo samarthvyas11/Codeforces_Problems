@@ -1,6 +1,8 @@
-# Question:- Nearly Lucky Number
+# Question:- 
+Nearly Lucky Number
 
-# Link :- https://codeforces.com/problemset/problem/110/A
+# Link :- 
+https://codeforces.com/problemset/problem/110/A
 
 # Time complexity :- O(N)
 
