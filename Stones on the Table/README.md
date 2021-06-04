@@ -1,6 +1,8 @@
-# Question Stones on the Table
+# Question:-
+Stones on the Table
 
-# Link :-https://codeforces.com/problemset/problem/266/A
+# Link :-
+https://codeforces.com/problemset/problem/266/A
 
 # Time complexity:- O(N)
 
