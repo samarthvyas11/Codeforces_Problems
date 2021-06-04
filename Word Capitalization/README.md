@@ -1,6 +1,8 @@
-# Question Word Capitalization
+# Question:
+Word Capitalization
 
-# Link:- https://codeforces.com/problemset/problem/281/A
+# Link:-
+https://codeforces.com/problemset/problem/281/A
 
 # Time Complexity: O(1)
 
