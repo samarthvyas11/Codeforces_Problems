@@ -13,4 +13,4 @@ make our final drink ,so total volume of final drink is
 of orange in final drink is the sum of the compostition
 of orange in each drink .
 we have  total_volume , we have orange juice compostition,
-calcuate percent!
+calculate percent!
