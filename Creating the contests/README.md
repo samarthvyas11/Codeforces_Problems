@@ -8,4 +8,4 @@ https://codeforces.com/contest/1029/problem/B
 
 # Explanation:-
 Apply greedy approach, check whether the difficulty[i+1] <= difficulty[i] *2
-Check code to understand easily. 
+Check code to understand easily.
